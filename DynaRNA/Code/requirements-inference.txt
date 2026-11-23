@@ -1,0 +1,12 @@
+# Candidate compatibility environment; full resolved versions are saved at build time.
+numpy==1.23.5
+scipy==1.10.1
+pandas==1.5.3
+biopython==1.79
+dm-tree==0.1.8
+ml-collections==0.1.1
+GPUtil==1.4.0
+matplotlib==3.7.5
+plotly==5.18.0
+tqdm==4.66.6
+
